@@ -1,0 +1,16 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Database files (if using SQLite)
+*.sqlite
